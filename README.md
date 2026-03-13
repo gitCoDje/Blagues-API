@@ -1,0 +1,18 @@
+Blagues-API
+Frontend Vanilla JS consommant l'API blablagues.net.
+
+Fonctionnalités
+Blague aléatoire + réponse cachée
+
+Copie clipboard
+
+Loading state
+
+Techno
+Vanilla JS, Fetch API, Clipboard API
+
+Démo
+Ouvrir index.html
+
+API
+blablagues.net
